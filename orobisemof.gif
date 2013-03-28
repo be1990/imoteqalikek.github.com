@@ -1,0 +1,586 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+	<title>Not Found</title>
+	<meta name="description" content="" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+	<meta http-equiv="Cache-Control" content="no-cache" />
+	<meta http-equiv="Expires" content="0" />
+	<meta http-equiv="Pragma" content="no-cache" />
+	<script type="text/javascript">
+		var useOnDomReady = false;
+	</script>
+	
+	
+	<link rel="stylesheet" type="text/css" href="/css/default/lsnglobal.css?v=4811_26054"/>
+<script type="text/javascript" src="/js/lsnglobal.js?v=4811_26054"></script>
+
+		<meta name="robots" content="noindex" />
+	
+	<meta name="verify-v1" content="oQ9g0mZEYXej/FEKhU1Eb6tVnjEfyVgOTOzNfIKzUMM=" />
+
+<meta name="verify-v1" content="vm8uLGwI17hunIFRoEgUSLDveb92Y0ttgzWIt2C9ILQ=" />
+
+
+<link rel="shortcut icon" href="http://www.vermonttoday.com/graphics/favicon.ico">
+<!-- PUT THIS TAG IN THE head SECTION --> <script type="text/javascript"
+src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+  GS_googleAddAdSenseService("ca-pub-8603853290290703");
+  GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+  GA_googleAddSlot("ca-pub-8603853290290703", "bizdirectory_topleader"); </script> <script type="text/javascript">
+  GA_googleFetchAds();
+</script>
+<script language=javascript
+src="http://www.vermonttoday.com/includes/functions.js"></script>
+<!-- END OF TAG FOR head SECTION -->
+
+	<script type="text/javascript">
+		var serverUrl = "business.vermonttoday.com";
+		var pcksl = "http://business.vermonttoday.com";
+		var pckdt = pcksl.replace('http://www.','');
+		document.domain = "vermonttoday.com";
+		var ord = new Date()*1;
+
+		// V3 Environment Variables:
+		Environment = { "Mount": "/", "Location": "Jericho, VT", "HostUrl": "business.vermonttoday.com", "LiteMode": false, "PluckUrlRoot": "http://pluck.local.com", "PluckUser": { "Id": "", "Username": "", "LoggedIn": false }};
+		var loc = Environment.Location;   
+	</script>
+
+</head>
+<body  itemscope itemtype="http://schema.org/WebPage">
+	
+
+
+
+
+
+<script type="text/javascript">
+$_.OnLoad(function() {
+	var objSignIn = $_dom.ById('signInLink');
+	if (objSignIn) {
+		objSignIn.Click(function() {
+			signin();
+		});
+	}
+});
+</script>
+
+<div id="lsn-mainWrap" class="lsn-mainWrap">
+    
+    <div id="pg-cobrand-header">
+         <center>
+
+<table width="980" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+		  <tr valign="top" width="980">
+  <td bgcolor=#ffffff align="left">
+			<a rel="nofollow" href="http://www.vermonttoday.com"><img src="http://www.vermonttoday.com/graphics/vermonttoday.jpg" alt="Vermont Today logo" border="0"></a>
+	</td>
+	<td align="left">
+		
+<script type="text/javascript">
+  GA_googleFillSlot("bizdirectory_topleader");
+</script>
+</table>
+
+     
+    </div>
+
+<style type="text/css">
+    
+        html, body { font-family: Verdana, Arial, Tahoma, Helvetica, sans-serif; }
+    
+        html, body { font-size: 10px; }
+    
+        h1 { font-size: 17px; }
+    
+</style>
+<script type="text/javascript">
+    $_.OnLoad(function() {
+        //init location dropdown typeAhead stuff
+        var ACController = new LOCM.AutoCompleteController;
+        tAheadOpts = ({ Endpoint: '/ajax/typeaheadajax.aspx?type=location&q=',
+            UI: {
+                ContainerClass: "locm-autocomplete-container",
+                ItemClass: "locm-autocomplete-item",
+                HoverClass: "locm-autocomplete-highlight"
+            }
+        });
+        ACController.AddField('txtwhere', tAheadOpts);
+        ACController.Initialize();
+        if (typeof (typeAhead) !== 'undefined') typeAhead.OnLoad();
+    });
+</script>
+
+
+ 
+	<div id="lsn-topNav" class="lsn-topNav">
+    	<fieldset>
+    	<form id="form-search">
+        	<div class="lsn-search">
+            	<span id="lsn-txtFind" class="lsn-headerButtonLabels">Find</span>
+        		<input type="text" class="lsn-searchInput" id="txtwhat" value="Business, Products and Services" alt="Business, Products and Services" />
+            </div>
+            
+            <div class="lsn-search lsn-mL10">
+            	<span id="lsn-txtNear" class="lsn-headerButtonLabels">Near</span>
+        		<input type="text" class="lsn-searchInput" id="txtwhere" value="Jericho, VT" alt="ZIP, City &amp; State, Address" />
+            </div>
+           <input id="locm-global-search-button" type="submit" value="" class="lsn-searchBtn" omn_key="LNF:110:1:1096" onclick="return loc_click(this);" />
+           </form>
+        </fieldset>
+        <p class="lsn-navExample1">Enter <b>name</b> or <b>type</b> of business</p>
+        <p class="lsn-navExample2">Enter <b>city & state</b>, or <b>ZIP</b></p>
+        <div id="lsn-txtNear-validation-message" class="lsn-txtNear-validation-msg">Please enter or select a location</div>
+    	<div class="lsn-navRoundTL"></div>
+    	<div class="lsn-navRoundTR"></div>
+    </div> <!-- / lsn-TopNav -->
+
+    <div id="lsn-subNav" class="lsn-subNav">
+            <div class="lsn-addBizWrap">
+           
+                <ul class="dropnav">
+    				<li style="padding-top: 3px">
+    				<div class="lsn-addBizImg fl" style="margin:-1px 5px 0 0"></div>
+					<a omn_key="LNF:110:1:1002" onclick="return loc_click(this);" href="http://vermonttoday.partners.local.com/" target="_blank" rel="nofollow">Add Your Business</a>
+					
+					</li> 
+				</ul>
+			
+            </div>
+            <div class="lsn-coupWrap">
+                
+            </div>
+            
+            <div class="lsn-userOptions">	
+            
+				<a omn_key="LNF:110:1:1148" onclick="return loc_click(this);" href="javascript:void(0);" id="signInLink" rel="nofollow">
+				<div class="lsn-reviewIcon lsn-fl lsn-mR5"></div>
+				Review Sign In</a>&nbsp; | &nbsp;
+				<a omn_key="LNF:110:1:1147" onclick="return loc_click(this);" href="/register.aspx" rel="nofollow">Register</a>
+			</div>
+   	 	
+        <div class="lsn-clear"></div>
+        <div class="lsn-subNavRoundBL"></div>
+        <div class="lsn-subNavRoundBR"></div>
+    </div> <!-- / lsn-subNav -->
+
+    
+    
+<div class="lsn-refineLCurve lsn-fl"></div>
+    <div class="lsn-refineWrap lsn-fl" style="width:970px">
+        <h3 style="color:#195073;margin:15px 0 0 5px;font-size:18px">Page Not Found.</h3>
+    </div>
+    <div class="lsn-refineRCurve lsn-fl"></div>
+    <div class="lsn-clear"></div>
+
+        
+    <div class="lsn-column675 lsn-mT15">
+        
+    	<div class="lsn-subHeadLCurve lsn-fl"></div>
+        <div class="lsn-subHead lsn-fl" style="width:655px">
+        	<h3>Discover More Locally</h3>
+        </div>
+        <div class="lsn-subHeadRCurve lsn-fl"></div>
+        <div class="lsn-clear"></div>
+    	<div style="width: 675px;margin:50px 15px 30px 0">
+              
+  <div id="lsn-categoryIcons" style="margin-top:30px">
+   
+	<div id="lsn-categoryIcons1" class="lsn-categoryIcons lsn-largeIconWrap fixCatsIE7">
+		<div class="lsn-categoryIconsTitle">
+			<h4 href="javascript:void(0);"  class="lsn-categoryIconsCloseMenu">Automotive</h4>
+		</div>		
+		<div class="lsn-categoryIconsShortMenu">
+			
+				<ul id="lsn-faqList">
+			
+					<li><a omn_key="LNF:105:1:1027" onclick="return loc_click(this);" href="/jericho+vt/auto+dealers+cars+trucks+vans.zq.html">Auto Dealers: Cars, Trucks Vans</a></li>
+			
+					<li><a omn_key="LNF:105:2:1027" onclick="return loc_click(this);" href="/jericho+vt/car+auto+body+repair.zq.html">Car Auto Body Repair</a></li>
+			
+					<li><a omn_key="LNF:105:3:1027" onclick="return loc_click(this);" href="/jericho+vt/car+auto+repair+maintenance+service.zq.html">Car Auto Repair, Maintenance Service</a></li>
+			
+					<li><a omn_key="LNF:105:4:1027" onclick="return loc_click(this);" href="/jericho+vt/car+rental.zq.html">Car Rental</a></li>
+			
+					<li><a omn_key="LNF:105:5:1027" onclick="return loc_click(this);" href="/jericho+vt/car+wash+auto+detailing.zq.html">Car Wash Auto Detailing</a></li>
+			
+					<li>&nbsp;</li>
+					<li><a href='/jericho+vt/automotive.zq.html' class="lsn-categoryIconsMoreLink">More...</a></li>
+				</ul>
+			
+		</div>
+		<div class="lsn-categoryIconsImage">
+			<div class="lsn-categoryIconsImageIcon lsn-iconAutoLrg" title="Show Automotive subcategories"></div>
+			<div class="lsn-categoryIconsImageShadow"></div>
+		</div>
+	</div>
+  
+	<div id="lsn-categoryIcons2" class="lsn-categoryIcons lsn-largeIconWrap fixCatsIE7">
+		<div class="lsn-categoryIconsTitle">
+			<h4 href="javascript:void(0);"  class="lsn-categoryIconsCloseMenu">Hotels + Travel</h4>
+		</div>		
+		<div class="lsn-categoryIconsShortMenu">
+			
+				<ul id="lsn-faqList">
+			
+					<li><a omn_key="LNF:105:1:1029" onclick="return loc_click(this);" href="/jericho+vt/casino+hotels+resorts.zq.html">Casino Hotels and Resorts</a></li>
+			
+					<li><a omn_key="LNF:105:2:1029" onclick="return loc_click(this);" href="/jericho+vt/hostels.zq.html">Hostels</a></li>
+			
+					<li><a omn_key="LNF:105:3:1029" onclick="return loc_click(this);" href="/jericho+vt/hotels+and+motels.zq.html">Hotels And Motels</a></li>
+			
+					<li><a omn_key="LNF:105:4:1029" onclick="return loc_click(this);" href="/jericho+vt/rental+car+travel+agents.zq.html">Rental Car Travel Agents</a></li>
+			
+					<li><a omn_key="LNF:105:5:1029" onclick="return loc_click(this);" href="/jericho+vt/resorts+hotels.zq.html">Resorts Hotels</a></li>
+			
+					<li>&nbsp;</li>
+					<li><a href='/jericho+vt/hotels+travel.zq.html' class="lsn-categoryIconsMoreLink">More...</a></li>
+				</ul>
+			
+		</div>
+		<div class="lsn-categoryIconsImage">
+			<div class="lsn-categoryIconsImageIcon lsn-iconHotelLrg" title="Show Hotels + Travel subcategories"></div>
+			<div class="lsn-categoryIconsImageShadow"></div>
+		</div>
+	</div>
+  
+	<div id="lsn-categoryIcons3" class="lsn-categoryIcons lsn-largeIconWrap fixCatsIE7">
+		<div class="lsn-categoryIconsTitle">
+			<h4 href="javascript:void(0);"  class="lsn-categoryIconsCloseMenu">Activities</h4>
+		</div>		
+		<div class="lsn-categoryIconsShortMenu">
+			
+				<ul id="lsn-faqList">
+			
+					<li><a omn_key="LNF:105:1:1031" onclick="return loc_click(this);" href="/jericho+vt/movie+theaters.zq.html">Movie Theaters</a></li>
+			
+					<li><a omn_key="LNF:105:2:1031" onclick="return loc_click(this);" href="/jericho+vt/museums.zq.html">Museums</a></li>
+			
+					<li><a omn_key="LNF:105:3:1031" onclick="return loc_click(this);" href="/jericho+vt/music.zq.html">Music</a></li>
+			
+					<li><a omn_key="LNF:105:4:1031" onclick="return loc_click(this);" href="/jericho+vt/night+clubs+nightclubs+bars+lounges.zq.html">Night Clubs, Bars and Lounges</a></li>
+			
+					<li><a omn_key="LNF:105:5:1031" onclick="return loc_click(this);" href="/jericho+vt/sports+recreation.zq.html">Sports and Recreation</a></li>
+			
+					<li>&nbsp;</li>
+					<li><a href='/jericho+vt/activities.zq.html' class="lsn-categoryIconsMoreLink">More...</a></li>
+				</ul>
+			
+		</div>
+		<div class="lsn-categoryIconsImage">
+			<div class="lsn-categoryIconsImageIcon lsn-iconActLrg" title="Show Activities subcategories"></div>
+			<div class="lsn-categoryIconsImageShadow"></div>
+		</div>
+	</div>
+  
+	<div id="lsn-categoryIcons4" class="lsn-categoryIcons lsn-largeIconWrap fixCatsIE7">
+		<div class="lsn-categoryIconsTitle">
+			<h4 href="javascript:void(0);"  class="lsn-categoryIconsCloseMenu">Professional Services</h4>
+		</div>		
+		<div class="lsn-categoryIconsShortMenu">
+			
+				<ul id="lsn-faqList">
+			
+					<li><a omn_key="LNF:105:1:1033" onclick="return loc_click(this);" href="/jericho+vt/event+planning.zq.html">Event Planning</a></li>
+			
+					<li><a omn_key="LNF:105:2:1033" onclick="return loc_click(this);" href="/jericho+vt/financial+advisors.zq.html">Financial Advisors</a></li>
+			
+					<li><a omn_key="LNF:105:3:1033" onclick="return loc_click(this);" href="/jericho+vt/lawyers.zq.html">Lawyers</a></li>
+			
+					<li><a omn_key="LNF:105:4:1033" onclick="return loc_click(this);" href="/jericho+vt/tax+services.zq.html">Tax Services</a></li>
+			
+					<li>&nbsp;</li>
+					<li><a href='/jericho+vt/professional+services.zq.html' class="lsn-categoryIconsMoreLink">More...</a></li>
+				</ul>
+			
+		</div>
+		<div class="lsn-categoryIconsImage">
+			<div class="lsn-categoryIconsImageIcon lsn-iconProLrg" title="Show Professional Services subcategories"></div>
+			<div class="lsn-categoryIconsImageShadow"></div>
+		</div>
+	</div>
+  
+	<div id="lsn-categoryIcons5" class="lsn-categoryIcons lsn-largeIconWrap fixCatsIE7">
+		<div class="lsn-categoryIconsTitle">
+			<h4 href="javascript:void(0);"  class="lsn-categoryIconsCloseMenu">Event Planning + Services</h4>
+		</div>		
+		<div class="lsn-categoryIconsShortMenu">
+			
+				<ul id="lsn-faqList">
+			
+					<li><a omn_key="LNF:105:1:1035" onclick="return loc_click(this);" href="/jericho+vt/caterers+catering.zq.html">Caterers Catering</a></li>
+			
+					<li><a omn_key="LNF:105:2:1035" onclick="return loc_click(this);" href="/jericho+vt/event+planning.zq.html">Event Planning</a></li>
+			
+					<li><a omn_key="LNF:105:3:1035" onclick="return loc_click(this);" href="/jericho+vt/party+supplies+party+stores.zq.html">Party Supplies Party Stores</a></li>
+			
+					<li><a omn_key="LNF:105:4:1035" onclick="return loc_click(this);" href="/jericho+vt/photographers+photography.zq.html">Photographers Photography</a></li>
+			
+					<li><a omn_key="LNF:105:5:1035" onclick="return loc_click(this);" href="/jericho+vt/video+recording+photographers.zq.html">Video Recording Photographers</a></li>
+			
+					<li>&nbsp;</li>
+					<li><a href='/jericho+vt/event+planning+services.zq.html' class="lsn-categoryIconsMoreLink">More...</a></li>
+				</ul>
+			
+		</div>
+		<div class="lsn-categoryIconsImage">
+			<div class="lsn-categoryIconsImageIcon lsn-iconEventLrg" title="Show Event Planning + Services subcategories"></div>
+			<div class="lsn-categoryIconsImageShadow"></div>
+		</div>
+	</div>
+  
+	<div id="lsn-categoryIcons6" class="lsn-categoryIcons lsn-largeIconWrap fixCatsIE7">
+		<div class="lsn-categoryIconsTitle">
+			<h4 href="javascript:void(0);"  class="lsn-categoryIconsCloseMenu">Health + Medical</h4>
+		</div>		
+		<div class="lsn-categoryIconsShortMenu">
+			
+				<ul id="lsn-faqList">
+			
+					<li><a omn_key="LNF:105:1:1037" onclick="return loc_click(this);" href="/jericho+vt/adult+daycare.zq.html">Adult Daycare</a></li>
+			
+					<li><a omn_key="LNF:105:2:1037" onclick="return loc_click(this);" href="/jericho+vt/child+daycare.zq.html">Child Daycare</a></li>
+			
+					<li><a omn_key="LNF:105:3:1037" onclick="return loc_click(this);" href="/jericho+vt/children+s+hospital.zq.html">Children's Hospital</a></li>
+			
+					<li><a omn_key="LNF:105:4:1037" onclick="return loc_click(this);" href="/jericho+vt/emergency+rooms.zq.html">Emergency Rooms</a></li>
+			
+					<li><a omn_key="LNF:105:5:1037" onclick="return loc_click(this);" href="/jericho+vt/medical+hospitals.zq.html">Medical Hospitals</a></li>
+			
+					<li>&nbsp;</li>
+					<li><a href='/jericho+vt/health+medical.zq.html' class="lsn-categoryIconsMoreLink">More...</a></li>
+				</ul>
+			
+		</div>
+		<div class="lsn-categoryIconsImage">
+			<div class="lsn-categoryIconsImageIcon lsn-iconHealthLrg" title="Show Health + Medical subcategories"></div>
+			<div class="lsn-categoryIconsImageShadow"></div>
+		</div>
+	</div>
+  
+  </div>
+  
+
+<script type="text/javascript">
+	$_.OnLoad(function() {
+		if (typeof(categoryIcons) !== 'undefined') categoryIcons.OnLoad();
+	});
+</script>
+    	</div>
+    	<div class="lsn-clear"></div>
+    
+	</div>
+
+    <div class="lsn-column300 mL15 lsn-mT15">
+    	
+        <div class="mB15">
+        	
+
+<iframe src="http://ad.doubleclick.net/adi/pg.sp/business.vermonttoday.com;kw=;pos=2;tile=2;city=jericho_vt_05465;sz=300x250;ord=805791026?" frameBorder="no" scrolling="no" height="250" width="300" > </iframe>
+ 		
+        </div>
+       
+        
+    </div> <!-- / lsn-column300 -->
+    <div class="lsn-clear"></div>
+	
+	
+    
+<script type="text/javascript">
+$_.OnLoad(function() {
+	/* Leave this here, but turn it on in /js/pluck.js if you want to see how long it takes 
+	JavaScript to process each function. Put all JS functions above this line, or they won't be included
+	in the totals. */
+	if ((typeof(speedtest) !== 'undefined') && (speedtest.debugTimer)) speedtest.ReportTotals();
+});
+</script>
+
+<table width="980" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+<center>
+The Vermont Today business directory is a product of the 
+<a class=weblink rel="nofollow" href="http://www.rutlandherald.com/apps/pbcs.dll/frontpage">Rutland Herald</a> & 
+<a class=weblink rel="nofollow" href="http://timesargus.com/apps/pbcs.dll/frontpage">Times Argus</a>.
+<br><br>
+</center>
+</table>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("<script src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'><\/script>"));
+</script>
+
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9486510-26");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<script language="JavaScript" type="text/javascript"
+src="http://www.vermonttoday.com/js/s_code.js"></script><script language="JavaScript"
+type="text/javascript">
+s.Account="saxotechvermenttoday"
+s.cookieDomainPeriods="2"
+s.pageName="Directory"
+s.server="S260608AT1VW722"
+/* Traffic Variables */
+s.prop1="Directory"
+/* E-commerce Variables */
+/* Hierarchy Variables */
+s.hier1="Directory"
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();
+if(s_code)document.write(s_code)
+</script>
+<noscript>
+<img src="http://grndsinchant.112.2O7.net/b/ss/grndsinchant/1/H.2--NS/0"
+height="1" width="1" border="0" alt="" /></noscript>
+
+
+
+<div style='width:99%;text-align:left; color:#010101; font-size:10px;background-color:white;margin-top:30px;border-top: solid 1px #ccc; padding-top:10px; padding-left:1%; padding-bottom:10px; '>
+
+
+<center><div style="width: 99%; text-align: center; color: rgb(1, 1, 1); font-size: 10px; background-color: white; margin-top: 30px; border-top: 1px solid rgb(204, 204, 204); padding-top: 10px; padding-left: 1%; padding-bottom: 10px;">
+
+<!-- AddThis Button BEGIN
+<script type="text/javascript">addthis_pub  = 'ldm616';</script>
+<a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s9.addthis.com/button1-bm.gif" width="125" height="16" border="0" alt="" /></a><script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+
+AddThis Button END -->
+<br>
+ 
+<p>Copyright 2013 Local Corporation - US Patent Number 7,231,405. - <a href="/privacypolicy.aspx" style="color: rgb(1, 1, 1);">Privacy Policy</a> - <a href="/termsofservice.aspx" style="color: rgb(1, 1, 1);">Terms of Service</a><br>
+Some data provided by <a href="http://www.databyacxiom.com/" rel="nofollow" style="color: rgb(1, 1, 1);">Acxiom</a>.</p>
+</div></center>
+
+
+<div id="pg-cobrand-footer" class="pg-footer">
+    
+</div>
+
+
+
+</div>
+	
+	<script src="//s.btstatic.com/tag.js">
+		{ site: "rbWQ5eT" } 
+	</script>
+
+	<noscript>
+	 <iframe src="//s.thebrighttag.com/iframe?c=rbWQ5eT" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+	</noscript>
+	
+	<script type="text/javascript">
+		var pageData= {
+		"partner" : "235",
+		"group" : "002",
+		"subcategory" : "",
+		"category" : "",
+		"state" : "VT",
+		"city" : "Jericho",
+		"keyword" : ""
+	};
+	</script>
+	
+	<script type="text/javascript">
+		// C#-to-JS Databind to turn off the Omniture Confirmation Alerts, when the web.config's LiteMode="true".
+		if (typeof(ApolloContext) === 'undefined') var ApolloContext = {};
+		ApolloContext.LiteMode = false;
+	</script>				
+		
+
+	<script type="text/javascript">
+		var s_account = "icpremierguide";
+	</script>
+
+	<script type="text/javascript" src="/js/s_code_1.js?v=4811_26054"></script>
+
+	<script type="text/javascript"><!--
+	
+		$DeviceDetect.Init(false);
+		var userAgentType = '';
+		try {
+			userAgentType = $DeviceDetect.UserAgentType();
+		} catch (e) {
+			userAgentType = 'UserAgentType Error';
+		}
+		
+		if (typeof(feed) == "undefined")
+			feed = "nofeed";
+		
+		var partner = "|LSN Partner|Rutland Herald|" != "" ? "|LSN Partner|Rutland Herald|" : "MissingPartner";
+		s_lsn.pageName="LSN - Page Not Found";
+		s_lsn.server = "LA3PGUIWEB05";
+		s_lsn.campaign = "710";
+		s_lsn.prop1  = "";
+		s_lsn.prop2  = "";
+		if(typeof(premiumListing) != 'undefined' && premiumListing)
+			s_lsn.prop3 = premiumListing;
+		s_lsn.prop4  = "Jericho, VT";
+		s_lsn.prop5  = "LA3PGUIWEB05:LSN - Page Not Found";
+		s_lsn.prop6  =  feed + "-" + partner + "-business.vermonttoday.com";
+		s_lsn.prop7  = feed;
+		s_lsn.prop8  = partner;
+		s_lsn.prop9  = "business.vermonttoday.com";
+		
+		s_lsn.prop13 = userAgentType;
+		s_lsn.prop14 = "web";
+		
+		s_lsn.prop16 = feed + "-" + partner + "-vermonttoday.com";
+		s_lsn.prop17 = "vermonttoday.com";
+        
+		
+		s_lsn.prop20 = '';
+		s_lsn.prop21 = (typeof(omnitureProps) !== 'undefined' && typeof(omnitureProps.prop21) !== 'undefined' && omnitureProps.prop21) ? omnitureProps.prop21:'';
+		s_lsn.prop22 = (typeof(omnitureProps) !== 'undefined' && typeof(omnitureProps.prop22) !== 'undefined' && omnitureProps.prop22) ? omnitureProps.prop22:'';
+		s_lsn.prop23 = (typeof(omnitureProps) !== 'undefined' && typeof(omnitureProps.prop23) !== 'undefined' && omnitureProps.prop23) ? omnitureProps.prop23:'';
+		s_lsn.prop24 = (typeof(omnitureProps) !== 'undefined' && typeof(omnitureProps.prop24) !== 'undefined' && omnitureProps.prop24) ? omnitureProps.prop24:'';
+		s_lsn.prop25 = (typeof(omnitureProps) !== 'undefined' && typeof(omnitureProps.prop25) !== 'undefined' && omnitureProps.prop25) ? omnitureProps.prop25:'';
+		s_lsn.prop26 = (typeof(omnitureProps) !== 'undefined' && typeof(omnitureProps.prop26) !== 'undefined' && omnitureProps.prop26) ? omnitureProps.prop26:'';
+		s_lsn.prop27 = (typeof(omnitureProps) !== 'undefined' && typeof(omnitureProps.prop27) !== 'undefined' && omnitureProps.prop27) ? omnitureProps.prop27:'';
+		s_lsn.prop28 = (typeof(omnitureProps) !== 'undefined' && typeof(omnitureProps.prop28) !== 'undefined' && omnitureProps.prop28) ? omnitureProps.prop28:'';
+		s_lsn.prop29 = (typeof(omnitureProps) !== 'undefined' && typeof(omnitureProps.prop29) !== 'undefined' && omnitureProps.prop29) ? omnitureProps.prop29:'';
+		s_lsn.prop30 = (typeof(omnitureProps) !== 'undefined' && typeof(omnitureProps.prop30) !== 'undefined' && omnitureProps.prop30) ? omnitureProps.prop30:'';
+        s_lsn.prop31 = (typeof(attiCount) !== 'undefined' && attiCount) ? attiCount:'';
+
+		s_lsn.eVar1  = "LA3PGUIWEB05:LSN - Page Not Found";
+		s_lsn.eVar2  = "";
+		s_lsn.eVar3  = "Jericho, VT";
+		s_lsn.eVar6  = "";
+		s_lsn.eVar7  = "LA3PGUIWEB05";
+		
+		s_lsn.eVar13 = userAgentType;
+		s_lsn.eVar14 = "web";
+		
+		s_lsn.eVar25 = s_lsn.getNewRepeat();
+		s_lsn.eVar26 = feed + "-" + partner + "-vermonttoday.com";
+		s_lsn.eVar27 = "vermonttoday.com";		
+		s_lsn.eVar28 = partner;
+		s_lsn.eVar29 = "business.vermonttoday.com";
+		s_lsn.eVar30 = feed + "-" + partner + "-business.vermonttoday.com";
+		s_lsn.eVar31 = feed;
+		s_lsn.eVar32 = navigator.userAgent;
+		/* Set Page View Event */
+		s_lsn.events = s_lsn.apl(s_lsn.events,'event8',',',2);
+		//** SiteCatalyst code version: H.21.
+		var s_code=s_lsn.t();if(s_code)document.write(s_code);
+		//--></script>
+
+	<script type="text/javascript"><!-- if (navigator.appVersion.indexOf('MSIE') >= 0) document.write(unescape('%3C') + '\!-' + '-')//--></script>
+	<noscript>
+		<a href="http://www.omniture.com" title="Web Analytics"><img src="//icpremierguide.122.2O7.net/b/ss/icpremierguide/1/H.21--NS/0?pageName=LSN+-+Page+Not+Found" height="1" width="1" border="0" alt="" /></a>
+	</noscript>
+	
+	<!-- 
+[ LA3PGUIWEB05 ]
+[ Benchmarks ]
+ 0.0002159 | ApolloContext Initialized
+ 0.0002307 | Initialized
+ 0.0126951 | Page Rendered
+ -->
+</body>
+</html>
